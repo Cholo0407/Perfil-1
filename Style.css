@@ -8,3 +8,8 @@ footer {
     
     background-color: aliceblue;
 }
+
+.img-fluid{
+    width: 250px;
+    height: 200px;
+}
