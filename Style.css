@@ -4,6 +4,10 @@ body{
     font-family: 'Jost', sans-serif;
 }
 
+.clickable-image {
+    cursor: pointer;
+}
+
 footer {    
     
     background-color: aliceblue;
