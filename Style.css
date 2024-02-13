@@ -1,7 +1,22 @@
-body{
-    background-color: blue;
-    color: blue;
-    font-family: 'Jost', sans-serif;
+*{
+    font-family: sans-serif;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(189, 107, 114); 
+    z-index: 1000; 
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+body {
+    margin-top: 56px;
+    background-color: aqua; 
 }
 
 .clickable-image {
@@ -10,7 +25,7 @@ body{
 
 footer {    
     
-    background-color: aliceblue;
+    background-color: rgb(231, 182, 166);
 }
 
 .img-fluid{
